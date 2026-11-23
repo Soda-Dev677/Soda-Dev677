@@ -1,4 +1,9 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I’m Phan Đức Duy 👋<br><br>I’m a Software Engineering student interested in backend development and full-stack web applications.<br><br>I have experience building web applications with Java, Spring Boot, React, and TypeScript, working with REST APIs, databases, authentication, and frontend-backend integration.<br><br>I’m currently focusing on strengthening my Java and Spring Boot skills and gradually moving toward AI-powered applications and automation.<br><br>
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fun_dy25) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phanduy.prg@gmail.com) 
 
 <!--
 **Soda-Dev677/Soda-Dev677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
